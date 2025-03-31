@@ -1,6 +1,2 @@
 hola 
-
-
-
-<<<<<<<<<<<<<<
-modoificicado en rama
+x2
